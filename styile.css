@@ -1,0 +1,294 @@
+body{
+    background-color: rgb(44, 44, 44);
+}
+
+
+
+#caja1{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: gray;
+    height: 220px;
+    width: 220px;
+    position: relative;
+    top: 260px;
+    left: 13px;
+    padding: 50px;
+
+}
+#caja2{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: gray;
+    height: 220px;
+    width: 220px;
+    position: relative;
+    left: 345px;
+    padding: 50px;
+    bottom: 60px;
+}
+#caja3{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: gray;
+    height: 220px;
+    width: 220px;
+    position: relative;
+    left: 677px;
+    bottom: 380px;
+    padding: 50px;
+}
+#caja4{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: gray;
+    height: 220px;
+    width: 220px;
+    position: relative;
+    left: 1010px;
+    bottom: 700px;
+    padding: 50px;
+}
+
+
+
+#caja5{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: gray;
+    height: 220px;
+    width: 290px;
+    position: relative;
+    left: 50px;
+    bottom: 690px;
+    padding: 50px;
+}
+#caja6{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: gray;
+    height: 220px;
+    width: 290px;
+    position: relative;
+    left: 450px;
+    bottom: 1010px;
+    padding: 50px;
+}
+#caja7{
+    border-radius: 15px;
+    padding: 20px;
+    background-color: gray;
+    height: 220px;
+    width: 290px;
+    position: relative;
+    left: 850px;
+    bottom: 1330px;
+    padding: 50px;
+}
+
+
+#nombre1{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#nombre2{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#nombre3{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#nombre4{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#nombre5{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#nombre1{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#nombre6{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#nombre7{
+    color: antiquewhite;
+    position: relative;
+    top: 230px;
+    right: 30px;
+    
+}
+
+#circulo1 {
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative; z-index: 1;
+    left: 100px;
+    bottom: 1890px;
+    padding: 20px;
+}
+
+#circulo2 {
+    background: rgb(255, 0, 106);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative; z-index: 1;
+    left: 430px;
+    bottom: 2030px;
+    padding: 20px;
+}
+
+#circulo3 {
+    background: rgb(255, 102, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative; z-index: 1;
+    left: 760px;
+    bottom: 2170px;
+    padding: 20px;
+}
+
+#circulo4 {
+    background: rgb(0, 177, 103);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative; z-index: 1;
+    left: 1090px;
+    bottom: 2310px;
+    padding: 20px;
+}
+
+
+
+
+#circulo5 {
+    background: rgb(57, 120, 255);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative; z-index: 1;
+    left: 150px;
+    bottom: 2150px;
+    padding: 40px;
+}
+
+
+#circulo6 {
+    background: rgb(179, 0, 196);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative; z-index: 1;
+    left: 540px;
+    bottom: 2325px;
+    padding: 40px;
+}
+
+
+#circulo7 {
+    background: rgb(167, 100, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative; z-index: 1;
+    left: 950px;
+    bottom: 2500px;
+    padding: 40px;
+}
+
+#inicial1{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+
+#inicial2{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+#inicial3{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+#inicial4{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+#inicial5{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+
+#inicial6{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+
+
+#inicial7{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    bottom: 55px;
+}
+
+
+
+
+
+
